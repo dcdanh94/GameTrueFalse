@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BF6DBDA01E04502D007B5515"
-               BuildableName = "TrueFlse.app"
-               BlueprintName = "TrueFlse"
-               ReferencedContainer = "container:TrueFlse.xcodeproj">
+               BuildableName = "TrueFalse.app"
+               BlueprintName = "TrueFalse"
+               ReferencedContainer = "container:TrueFalse.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BF6DBDB41E04502D007B5515"
-               BuildableName = "TrueFlseTests.xctest"
-               BlueprintName = "TrueFlseTests"
-               ReferencedContainer = "container:TrueFlse.xcodeproj">
+               BuildableName = "TrueFalse.xctest"
+               BlueprintName = "TrueFalseTests"
+               ReferencedContainer = "container:TrueFalse.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BF6DBDBF1E04502D007B5515"
-               BuildableName = "TrueFlseUITests.xctest"
-               BlueprintName = "TrueFlseUITests"
-               ReferencedContainer = "container:TrueFlse.xcodeproj">
+               BuildableName = "TrueFalse.xctest"
+               BlueprintName = "TrueFalseUITests"
+               ReferencedContainer = "container:TrueFalse.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BF6DBDA01E04502D007B5515"
-            BuildableName = "TrueFlse.app"
-            BlueprintName = "TrueFlse"
-            ReferencedContainer = "container:TrueFlse.xcodeproj">
+            BuildableName = "TrueFalse.app"
+            BlueprintName = "TrueFalse"
+            ReferencedContainer = "container:TrueFalse.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BF6DBDA01E04502D007B5515"
-            BuildableName = "TrueFlse.app"
-            BlueprintName = "TrueFlse"
-            ReferencedContainer = "container:TrueFlse.xcodeproj">
+            BuildableName = "TrueFalse.app"
+            BlueprintName = "TrueFalse"
+            ReferencedContainer = "container:TrueFalse.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BF6DBDA01E04502D007B5515"
-            BuildableName = "TrueFlse.app"
-            BlueprintName = "TrueFlse"
-            ReferencedContainer = "container:TrueFlse.xcodeproj">
+            BuildableName = "TrueFalse.app"
+            BlueprintName = "TrueFalse"
+            ReferencedContainer = "container:TrueFalse.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
